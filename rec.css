@@ -1,0 +1,52 @@
+body{
+       background-color: #fffbe2;
+       margin-left: 80px;
+       margin-right: 80px;
+       margin-top: 80px;
+       margin-bottom: 100px;
+}
+
+header{
+    height: 200px;
+	width: 960px;
+	margin top:200px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+h1{ 
+       font-family: Helvetica;
+       font-size: 30px; 
+       text-align:center;
+       
+} 
+
+h2{ 
+       font-family: Helvetica;
+       font-size: 20px;
+       text-align:center;
+} 
+.contenedor{
+   height: 500px;
+	width: 960px;
+	margin top:100px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 200px;
+}
+p{ 
+       font-family: Helvetica;
+       font-size: 16px;
+       line-height: 30px;
+       text-align: 
+}
+
+img {
+      max-width:1200px;
+      max-height: 500px;
+	} 
+	
+	
+
+ 
+     
